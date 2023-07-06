@@ -1,0 +1,8 @@
+print(12 / 55)
+print(120 // 55)
+a = divmod(120, 55)
+print(a)
+b = divmod(100, 55)
+print(b)
+c = divmod(450, 55)
+print(c)
